@@ -49,7 +49,6 @@ public class BaseClass {
 	public void basicMethod()
 	{
 		FileRepository.openPropertyFile(Iconstantpath.PROPERTYPATH);
-		
 	}
 	
 	@AfterClass
