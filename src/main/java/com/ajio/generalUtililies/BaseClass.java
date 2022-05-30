@@ -52,9 +52,9 @@ public class BaseClass {
 		
 	}
 	
-//	@AfterClass
-//	public void closeApllication()
-//	{
-//		WebdriverRepository.closeBrowser(driver);
-//	}	
+	@AfterClass
+	public void closeApllication()
+	{
+		WebdriverRepository.closeBrowser(driver);
+	}	
 }
