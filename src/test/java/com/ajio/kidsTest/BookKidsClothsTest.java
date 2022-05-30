@@ -10,6 +10,7 @@ import com.ajio.generalUtililies.BaseClass;
 
 public class BookKidsClothsTest extends BaseClass
 {
+//This is test method
 	@Test
 	public  void bookKidsClothsTest() throws InterruptedException 
 	{
